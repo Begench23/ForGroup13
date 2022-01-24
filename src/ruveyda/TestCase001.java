@@ -1,4 +1,4 @@
-package us100.ruveyda;
+package ruveyda;
 
 public class TestCase001 {
     //cool code here
